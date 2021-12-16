@@ -1,4 +1,4 @@
-# PFE A21- 013 Réalité augmentée pour le guidage d'opérations chirurgicales
+# PFE A21 - 013 Réalité augmentée pour le guidage d'opérations chirurgicales
 
 **Professeur Responsable**
  - [Simon Drouin](https://github.com/drouin-simon)
